@@ -1,6 +1,6 @@
 # API-website-registration-part-1
 
-Sistema web de registro de usuarios desarrollado en PHP + MySQL, utilizando una API REST para operaciones CRUD (Crear, Leer, Actualizar y Eliminar).
+Este proyecto es la primera parte de un sistema de registro multiplataforma, enfocado en el desarrollo de una API REST en PHP con MySQL, consumida por una aplicación web. El sistema permite crear, listar, modificar y eliminar registros utilizando una arquitectura basada en API, lo que facilita su reutilización en futuras aplicaciones de escritorio y móviles.
 
 Este proyecto corresponde a la **Parte 1** del sistema completo:
 - Parte 2: Aplicación de escritorio
